@@ -1,0 +1,495 @@
+id_func,nome_completo,estado_civil,sexo,data_de_nascimento,endereco,data_contratacao,nivel,area,filial,salario_base,beneficios,vt,vr,horas_extras
+1,Gabriel Mesquita,C,M,1/1/1975,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",16/3/2006,1,1,3,23780,"1131,4","2262,8","2715,36",97
+2,João Haddad,C,M,26/4/1974,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",6/6/2008,5,2,3,875,35,"87,5",105,166
+3,Amanda Marques Ribeiro,C,F,7/1/1990,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",3/1/2008,5,3,2,1149,"34,47","114,9","137,88",188
+4,Guilherme Nunez,C,M,7/5/1993,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",3/5/2011,4,3,3,7415,"414,54","592,2","710,64",176
+5,Adelino Gomes,C,M,30/3/1974,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",16/3/2000,4,3,3,4450,"421,2",351,"421,2",121
+6,Audir de Avila Goulart,C,M,19/5/1999,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",12/6/2017,4,1,3,7324,"899,92","642,8","771,36",55
+8,Gil Bonder,C,M,22/6/1989,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",18/6/2007,4,1,2,5008,"177,76","444,4","533,28",37
+9,Gustavo de Melo Teixeira,S,M,5/7/1990,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",30/6/2008,4,4,2,5106,"579,32","413,8","496,56",116
+10,Andre Campos,S,M,1/7/1989,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",25/2/2013,3,3,2,10746,"1070,41","973,1","1167,72",164
+11,André Melo Soledade,S,M,17/8/1972,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",13/6/2007,4,3,2,3890,"330,22","300,2","360,24",191
+12,Natalia Morgan Loureiro,S,F,30/1/1971,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",11/1/2003,4,3,2,9293,"728,53","662,3","794,76",50
+13,Luca Costa,C,M,24/9/1977,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",30/11/2008,2,2,1,13774,378,1260,1512,117
+14,Jessica Oliveira Lima,C,F,5/2/1986,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",1/2/2004,5,4,3,1993,"79,72","199,3","239,16",111
+15,Caio Scalabrin,C,M,7/6/1970,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",17/8/2001,3,3,3,10280,"1291,08","922,2","1106,64",77
+16,Vinicius Freitas,S,M,23/12/1988,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",5/9/2016,4,4,1,4960,"507,76","461,6","553,92",38
+17,Pedro Carrera,S,M,12/7/1971,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",23/8/2001,3,2,2,10672,"613,32","1022,2","1226,64",179
+18,Isabella Bernardo,S,F,8/5/1978,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",25/10/2017,3,5,3,11278,"1131,65","870,5","1044,6",98
+19,Felipe Sousa Melo,S,M,23/7/1997,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",19/7/2015,4,1,2,5480,"517,08","430,9","517,08",55
+20,Pedro Fontes,S,M,31/1/1993,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",27/1/2011,4,1,2,7203,"688,56","573,8","688,56",11
+22,Bruno Vargas,S,M,15/3/1987,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",13/3/2013,2,5,1,14147,"1789,9","1278,5","1534,2",2
+23,Bárbara Spenchutt Vieira,S,F,30/9/1997,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",20/6/2017,5,3,1,1795,"53,85","179,5","215,4",196
+25,Livia Mello,S,F,4/7/1985,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",30/6/2003,1,3,2,23423,"2545,8","2121,5","2545,8",160
+26,Jéssica Neves Heimlich,C,F,20/2/1991,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",6/7/2013,3,5,1,12312,"1205,88","1004,9","1205,88",2
+27,Carolina Monteiro,C,F,17/3/1991,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",2/8/2010,3,4,1,10486,"423,6","847,2","1016,64",9
+28,Luís Werneck,S,M,19/10/1991,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",14/10/2009,2,5,2,14255,"402,72","1342,4","1610,88",97
+29,Cícero Barcelos Tagliari,C,M,31/5/1978,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",30/7/2007,4,1,3,5779,"341,28","426,6","511,92",85
+30,Gabriela Coutinho,S,F,3/9/1982,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",15/4/2010,3,2,2,11888,"403,44","1008,6","1210,32",14
+31,Thayná Freitas Medronho,S,F,30/6/1975,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",20/9/2008,4,2,1,7777,"541,2","541,2","649,44",195
+32,Marina Silva Pacheco,C,F,16/2/1981,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",24/2/2002,3,3,3,11316,"1323,84","945,6","1134,72",149
+33,Luana Lopes,C,F,17/6/1982,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",31/1/2016,3,3,2,13182,"652,8",1088,"1305,6",68
+34,Vitor Cordovil de Maglhães,C,M,23/7/1995,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",25/8/2013,2,1,3,15790,"447,48","1491,6","1789,92",113
+35,Carolina Gaspar de Mattos      ,C,F,22/3/1977,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",26/11/2006,4,3,3,5522,"459,2",328,"393,6",84
+36,Victor Mota,S,M,20/8/1971,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",20/9/2004,4,5,2,6915,"756,34","581,8","698,16",185
+37,Marcos Almeida Albuquerque Faria,C,M,26/2/1978,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",28/11/2016,4,4,1,7169,"875,28","625,2","750,24",120
+38,Marcelo Amaral Coelho,S,M,29/4/1995,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",24/4/2013,5,1,1,891,"124,74","89,1","106,92",173
+39,Tomas Guadagnino,S,M,1/12/1987,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",26/11/2005,5,5,1,1660,"49,8",166,"199,2",39
+40,Giovana de Oliveira e Mello     ,C,F,18/4/1987,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",25/5/2005,3,1,3,9957,"1046,37","804,9","965,88",2
+41,Leticia Mota,C,F,21/1/1975,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",4/12/2011,4,5,2,8363,"817,44","681,2","817,44",63
+42,Beatriz Rodrigues,S,F,2/2/1987,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",28/1/2005,4,3,3,8166,"377,86","539,8","647,76",25
+43,Guilherme Araujo Kelly,C,M,28/12/1981,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",10/10/2003,2,2,2,14594,"660,95","1321,9","1586,28",53
+44,Matheus Pereira dos Santos,C,M,3/9/1981,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",24/5/2009,5,1,1,1269,"50,76","126,9","152,28",152
+45,Mariana Martins,C,F,28/4/1993,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",24/4/2011,4,5,2,7559,"479,07","532,3","638,76",142
+47,Rodrigo e Silva Lemos,S,M,10/1/1982,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",6/1/2000,3,1,3,9559,"787,14","874,6","1049,52",156
+48,Marianna Pereira da Silva,S,F,6/10/1997,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",2/10/2015,5,4,2,1301,"182,14","130,1","156,12",160
+49,Roberto Suzano,C,M,11/7/1990,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",6/7/2008,1,4,2,25452,"3596,85","2397,9","2877,48",142
+51,Matheus Sepúlveda,S,M,1/1/1984,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",1/6/2013,5,3,1,940,"122,2",94,"112,8",44
+52,Jéssica de Morais Silva,S,F,16/9/1979,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",5/11/2014,3,2,1,11518,"1310,85","873,9","1048,68",114
+53,Gabriel Rozental,C,M,28/6/1980,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",5/4/2000,4,1,1,5138,"122,01","406,7","488,04",25
+54,Patrick da Silva Farias ,C,M,27/1/1994,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",23/1/2012,5,3,2,1916,"114,96","191,6","229,92",76
+55,Marcello Venturini de Freitas,S,M,6/7/1991,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",1/7/2009,3,1,2,10921,"671,23","958,9","1150,68",180
+56,Isabelle Tiradentes,S,F,15/6/1972,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",9/5/2003,5,5,3,929,"130,06","92,9","111,48",142
+57,Raissa Carelli,C,F,14/11/1984,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",10/11/2002,5,1,3,1539,"123,12","153,9","184,68",4
+58,Lorena Marinho,C,F,13/2/1994,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",9/2/2012,4,2,1,6188,"337,76","422,2","506,64",162
+60,Fillipe Tupini,S,M,15/3/1994,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",10/3/2012,4,2,2,5994,"411,12","513,9","616,68",174
+61,Michelle Zerbinato,C,F,5/12/1992,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",7/3/2015,5,2,3,1545,"61,8","154,5","185,4",81
+62,Luiz Guarçoni Migueis,C,M,2/9/1980,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",23/2/2014,3,5,1,10656,"1158,12","965,1","1158,12",193
+63,João Monteiro,S,M,26/4/1988,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",20/6/2013,4,3,1,7505,"848,12","652,4","782,88",174
+64,Douglas Costa,C,M,5/8/1988,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",1/8/2006,5,1,3,1343,"107,44","134,3","161,16",21
+65,João Ramos,C,M,10/9/1980,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",6/9/2008,3,5,2,9587,"919,16","835,6","1002,72",61
+66,Poline Limp,S,F,1/4/1976,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",17/2/2012,5,2,1,906,"81,54","90,6","108,72",162
+67,Carla Amiccuci Areias,C,F,5/5/1986,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",30/4/2004,3,4,3,12360,"598,68","997,8","1197,36",91
+68,Fernanda Rossini,S,F,8/11/1982,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",5/7/2002,4,4,3,6336,"451,6","451,6","541,92",4
+69,Leandro Almeida Neri,S,M,28/3/1974,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",24/8/2000,3,3,3,11844,"438,12","1095,3","1314,36",147
+70,Luiz Rodrigues Chaves,S,M,18/1/1983,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",13/1/2001,5,1,3,837,"83,7","83,7","100,44",157
+71,Leonardo Valença Castro,S,M,3/4/1989,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",28/12/2014,4,1,1,6318,"780,3","520,2","624,24",107
+72,Lucas Duarte,S,M,3/1/1970,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",13/4/2006,4,2,3,7037,"559,5","559,5","671,4",46
+73,José Rodrigues Pereira,S,M,30/9/1972,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",11/7/2001,4,5,1,7338,"805,92","671,6","805,92",190
+74,Átila Godoy de Melo,S,M,10/2/1985,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",23/2/2012,5,4,3,834,"108,42","83,4","100,08",12
+75,Nicole Marquito de Paiva Torres,C,F,6/6/1997,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",2/6/2015,4,1,1,7300,"335,16","478,8","574,56",180
+76,Lucas de Jesus,C,M,20/11/1985,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",25/9/2004,4,3,3,6797,"735,8",566,"679,2",18
+77,Bruno de Souza,S,M,13/11/1973,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",1/3/2013,4,3,3,6834,"458,01","508,9","610,68",9
+78,Gabriel Castro Cerqueira,S,M,22/5/1996,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",18/5/2014,4,5,2,8034,"269,08","672,7","807,24",12
+80,Frederico Vidal,S,M,21/5/1985,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",29/5/2010,4,5,2,4763,"268,5","447,5",537,86
+81,Giuseppe Fernandes,C,M,30/12/1980,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",11/2/2010,3,2,2,10021,"285,36","951,2","1141,44",60
+82,Rafael Soares dos Santos,C,M,2/2/1987,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",28/1/2005,3,4,2,9686,"604,17","863,1","1035,72",148
+83,Larissa do Nascimento Lima,S,F,17/11/1987,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",5/9/2007,5,3,3,1246,"87,22","124,6","149,52",59
+84,Fernanda Castro Morett Ceppas,S,F,8/1/1985,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",25/12/2008,4,2,2,5127,"357,57","397,3","476,76",123
+85,Rodrigo dos Santos Villares Vianna,C,M,24/8/1980,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",17/10/2001,5,1,1,874,"96,14","87,4","104,88",74
+86,Felipe Jordão Teixeira,C,M,18/5/1988,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",14/5/2006,5,3,3,1808,"126,56","180,8","216,96",67
+87,Luiz Rodrigues de Souza,S,M,29/9/1976,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",29/6/2004,3,3,1,11790,"1289,76","1074,8","1289,76",73
+88,Aline de Souza,S,F,4/9/1981,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",29/3/2011,2,3,1,16855,"884,04","1473,4","1768,08",93
+89,Roberto Leite,C,M,17/10/1999,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",12/10/2017,3,5,1,11068,1033,1033,"1239,6",19
+90,Bruna Tavares Vasconcelos,S,F,29/9/1980,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",26/8/2017,5,3,3,812,"121,8","81,2","97,44",103
+91,Luana Stockler,S,F,22/7/1989,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",18/7/2007,3,5,2,11106,"269,43","898,1","1077,72",69
+92,Alberto Ruzza de Carvalho,S,M,6/6/1980,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",18/10/2007,5,1,1,1577,"157,7","157,7","189,24",121
+93,Rafael Hollander,S,M,24/8/1998,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",19/8/2016,4,4,2,3860,"292,3","292,3","350,76",171
+94,Marina Vasconcelos de Sousa,C,F,8/3/1974,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",1/8/2004,3,1,1,11793,"664,72","949,6","1139,52",145
+95,Amanda Ferreira,C,F,28/6/1999,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",23/6/2017,3,1,1,11838,"381,76","954,4","1145,28",124
+96,Daniel Thuler,C,M,3/10/1977,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",13/3/2004,4,1,2,6086,"208,3","416,6","499,92",113
+97,João Fagundes,C,M,3/6/1997,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",30/5/2015,5,1,1,1269,"177,66","126,9","152,28",54
+98,Brenda Lopes,C,F,25/3/1974,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",28/12/2010,2,5,3,15305,"1056,88","1321,1","1585,32",195
+99,Rafael Viana Santos,C,M,15/10/1989,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",12/11/2011,3,3,2,10923,"1510,8","1007,2","1208,64",23
+100,Juliana Vieira Filho,S,F,20/8/1970,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",24/11/2004,3,1,1,12841,"406,24","1015,6","1218,72",98
+101,Victoria Nascimento Viríssimo,C,F,1/5/1970,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",4/1/2007,4,2,2,6078,"462,51","513,9","616,68",164
+102,Adriano de Souza,C,M,9/12/1993,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",5/12/2011,5,5,3,1459,"116,72","145,9","175,08",158
+103,Rodrigo Barreto,C,M,24/2/1986,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",30/6/2004,2,5,1,13649,"750,54","1250,9","1501,08",171
+104,Vinícius Maluf,S,M,5/11/1982,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",13/6/2007,5,5,1,801,"120,15","80,1","96,12",26
+105,Roberta Vaz,S,F,16/4/1992,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",12/4/2010,5,5,1,1519,"91,14","151,9","182,28",161
+106,José Cardeman,C,M,3/12/1997,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",29/11/2015,3,4,2,11609,"861,2","1076,5","1291,8",175
+107,Matheus Garcia Borges,S,M,31/3/1979,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",14/7/2002,4,2,3,7265,"384,16","548,8","658,56",126
+109,Bruna Calmon,C,F,19/1/1972,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",18/8/2001,2,2,1,16340,"1263,24","1403,6","1684,32",41
+110,Higor Frossard,S,M,26/7/1998,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",21/7/2016,5,1,2,1941,"155,28","194,1","232,92",79
+111,Daniela Santos Silva,S,F,11/3/1991,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",6/3/2009,5,1,2,1929,"135,03","192,9","231,48",0
+112,Matheus Sone,S,M,2/2/1977,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",27/3/2003,3,1,2,10863,"1193,16","994,3","1193,16",97
+113,Aline Santos Silva,C,F,17/8/1981,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",15/2/2015,4,5,2,8816,"404,1","673,5","808,2",64
+114,Natalia Indelicato,S,F,17/8/1979,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",15/7/2004,4,1,2,5587,"414,6","345,5","414,6",104
+115,Pedro Wermelinger Santos,S,M,23/8/1990,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",4/3/2011,5,3,2,1812,"199,32","181,2","217,44",73
+116,Bruno Cunha Felippe,C,M,26/9/1998,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",21/9/2016,4,2,1,8258,"708,4",644,"772,8",34
+117,Flávio Jacques Gamboa Fernandez de Oliveira Netto,C,M,28/9/1994,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",23/9/2012,5,4,3,2013,"201,3","201,3","241,56",111
+118,Lucas Martins,C,M,10/1/1988,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",23/2/2017,3,1,2,10229,"857,07","952,3","1142,76",133
+119,Hanna Vaz,C,F,1/8/1970,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",19/7/2005,3,3,3,13397,"1635,3","1090,2","1308,24",172
+120,Isabela Freitas,S,F,30/1/1971,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",22/5/2003,3,1,1,12495,"1144,2","953,5","1144,2",170
+121,Paulo Rodrigues Pereira,C,M,6/11/1980,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",21/5/2004,4,2,3,7286,"432,81","618,3","741,96",185
+122,Thaís Lisboa,S,F,9/6/1983,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",20/8/2016,4,4,1,8752,"375,72","626,2","751,44",80
+123,Thomaz Wegbrayt,S,M,20/1/1991,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",15/1/2009,4,2,2,7540,"689,7","689,7","827,64",104
+124,Carolina Gonçalves Lixa Fontoura,S,F,18/5/1984,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",9/6/2013,4,5,2,7929,"606,33","673,7","808,44",6
+125,Débora Pereira Ribeiro,S,F,8/7/1976,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",16/12/2006,3,4,2,10868,"1218,84","870,6","1044,72",190
+126,Karine Gusmão,C,F,6/7/1971,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",27/2/2001,5,3,1,1670,"217,1",167,"200,4",167
+127,Isabelle de Sá Foly,C,F,10/8/1970,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",10/2/2010,4,3,2,8765,"936,46","668,9","802,68",183
+128,Lucas Pinheiro Oliveira,C,M,12/5/1971,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",15/7/2007,3,4,3,9448,"1037,4","864,5","1037,4",52
+129,Pedro Assis,S,M,15/4/1974,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",20/3/2009,4,2,3,5530,"236,75","473,5","568,2",192
+130,Mylena Pinheiro Mariano,S,F,1/8/1990,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",27/7/2008,3,5,3,10090,"1142,96","816,4","979,68",163
+131,Renan Taylor,C,M,25/3/1995,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",28/1/2016,2,4,3,12952,"1442,88","1202,4","1442,88",174
+132,João Barbosa,C,M,17/1/1971,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",7/6/2005,2,4,1,13127,"853,65","1219,5","1463,4",103
+133,Adrielle Sá Rodrigues,S,F,16/11/1976,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",25/4/2001,3,2,2,10592,"321,64","804,1","964,92",147
+134,Caroline Gaspar de Mattos      ,S,F,23/7/1995,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",14/4/2014,3,1,3,12185,"1017,5",925,1110,71
+135,Caroline Valente de Figueiredo,C,F,15/7/1987,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",10/7/2005,3,3,2,10940,"994,44","828,7","994,44",90
+136,Julia Valim,C,F,22/1/1986,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",5/3/2005,4,4,1,9222,"693,1","693,1","831,72",191
+137,Stefan Vargas,C,M,1/1/1976,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",14/7/2004,4,5,2,5760,"122,61","408,7","490,44",48
+138,Maria Lopes de Almeida,S,F,6/9/1996,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",2/9/2014,4,5,3,6503,"403,8","403,8","484,56",173
+139,Paloma Albano,S,F,21/4/1982,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",1/7/2008,3,3,1,11644,"419,8","1049,5","1259,4",135
+140,Fernanda Santo,C,F,18/7/1981,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",7/4/2003,4,5,1,7607,"402,66","447,4","536,88",59
+142,Gabriel Mello,S,M,5/1/1976,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",13/9/2011,5,2,3,1668,"116,76","166,8","200,16",23
+143,Renan Scharnhorst Ott,C,M,15/4/1994,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",22/9/2016,4,2,3,6518,"359,76","599,6","719,52",136
+144,Lucas Brum Pereira,S,M,20/10/1991,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",9/6/2015,5,5,3,1150,115,115,138,5
+145,Arnôr Penedo,S,M,24/2/1996,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",19/2/2014,4,5,2,7761,"408,06","680,1","816,12",94
+146,Carolina da Silva,S,F,14/4/1997,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",10/4/2015,3,4,3,10085,"243,99","813,3","975,96",20
+147,Andre Junior,S,M,15/2/1986,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",3/3/2006,5,3,1,1552,"46,56","155,2","186,24",72
+148,Caio Stellet,S,M,7/2/1991,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",22/9/2011,4,3,1,5210,"314,1",349,"418,8",199
+149,Fernanda Rocha,C,F,24/12/1990,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",19/12/2008,5,5,3,1910,"57,3",191,"229,2",98
+150,Eduardo Brum,C,M,22/5/1990,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",17/5/2008,4,5,2,3340,"410,48","293,2","351,84",157
+151,Ângelo Gois,S,M,8/9/1975,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",20/4/2009,5,4,3,1549,"92,94","154,9","185,88",174
+152,Carolina Croix Barros,C,F,11/12/1981,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",19/7/2017,3,1,3,10628,"609,63","870,9","1045,08",6
+153,Izabel Costa,C,F,16/5/1978,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",2/7/2013,2,2,3,14206,"868,07","1240,1","1488,12",198
+154,Carlos Mota,C,M,16/7/1983,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",27/9/2000,4,5,3,5593,"127,44","159,3","191,16",82
+155,Thayza Rocha,S,F,30/3/1975,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",15/6/2005,3,3,1,11189,"452,05","904,1","1084,92",131
+156,Luiz Gonçalves,C,M,3/2/1981,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",14/12/2000,3,1,1,11511,"1308,71","1006,7","1208,04",22
+157,Ramon Vaz,C,M,26/11/1974,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",30/6/2009,3,5,3,11765,"430,08","1075,2","1290,24",78
+158,Amanda Rodrigues,S,F,18/5/1984,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",8/7/2010,4,2,1,8334,"813,15","625,5","750,6",59
+159,Hannah de Oliveira,C,F,2/11/1999,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",28/10/2017,5,3,1,1576,"220,64","157,6","189,12",161
+160,Eduardo Ramos,S,M,30/11/1971,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",16/5/2010,5,3,2,823,"24,69","82,3","98,76",180
+161,Victor Bezerra,C,M,15/3/1979,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",10/3/2007,5,2,3,1828,"73,12","182,8","219,36",117
+163,Yasmini de Almeida Richa,S,F,25/2/1979,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",7/8/2013,3,2,3,12466,"629,1","1048,5","1258,2",175
+164,Bruna da Cruz Barcelos,C,F,21/9/1975,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",20/8/2003,5,4,2,1183,"35,49","118,3","141,96",99
+166,Fabio Melo Eiras,S,M,4/8/1978,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",15/2/2004,5,4,1,1844,"184,4","184,4","221,28",124
+167,Aledio Villié Cerqueira Silva,C,M,7/9/1975,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",9/6/2003,3,4,2,12280,"1169,41","1063,1","1275,72",16
+168,Brenno Ayello Leite,S,M,20/11/1970,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",3/5/2009,3,5,3,10388,"487,6","975,2","1170,24",199
+169,David de Paula,S,M,3/10/1981,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",13/3/2006,5,5,1,1423,"184,99","142,3","170,76",126
+170,Lígia Fernandes Filardi,S,F,19/12/1995,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",14/12/2013,5,4,2,965,"96,5","96,5","115,8",153
+171,Guilherme Lopes da Silveira ,S,M,30/11/1999,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",12/4/2018,5,2,2,1269,"164,97","126,9","152,28",82
+172,Luis Guimarães,S,M,12/4/1974,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",8/8/2011,4,5,2,6180,"359,76","449,7","539,64",17
+173,Thiago Saraiva Araujo,C,M,27/2/1986,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",27/12/2009,3,5,3,9266,"909,7",827,"992,4",120
+174,Daniel Benevides Xavier,C,M,5/2/1985,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",4/3/2007,4,5,1,7363,"806,65","620,5","744,6",102
+175,Giovana Marinho,C,F,18/5/1979,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",30/4/2016,2,1,3,15246,"1671,67","1285,9","1543,08",96
+176,Eduarda Mello,C,F,10/5/1980,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",6/5/2008,4,4,3,8439,"903,63","695,1","834,12",71
+177,Pedro Alcoforado,S,M,10/10/1977,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",26/5/2001,2,1,1,15147,"961,87","1374,1","1648,92",50
+178,Wesley Oliveira Baptista,S,M,29/11/1971,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",18/3/2003,2,4,2,16332,"1781,4","1484,5","1781,4",84
+179,Caio Oliveira Meirelles,C,M,7/2/1974,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",20/10/2005,3,2,3,10353,"1015,74","923,4","1108,08",31
+180,Filipe Tabet,C,M,8/4/1981,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",16/2/2017,5,2,2,1108,"88,64","110,8","132,96",98
+181,Tiago de Araújo Júnior,S,M,24/3/1988,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",13/2/2013,4,1,1,5795,"579,96","483,3","579,96",167
+182,Joāo Leite Ursulino,C,M,21/3/1998,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",16/3/2016,4,4,2,3864,"148,95","297,9","357,48",30
+183,Jaqueline Rimolo de Menezes,C,F,5/5/1995,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",30/4/2013,4,1,1,7684,"381,76","477,2","572,64",107
+184,Paula Gonçalves Gomes,S,F,21/1/1972,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",17/6/2000,4,5,1,5507,"203,5",407,"488,4",161
+185,Clarissa Ferreira,C,F,25/6/1980,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",24/8/2013,5,3,2,2081,"312,15","208,1","249,72",187
+186,Raíza Barbosa,S,F,26/5/1994,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",27/1/2017,4,3,2,6637,"304,5",435,522,189
+187,Guilherme Delgado,C,M,28/12/1976,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",30/9/2002,5,3,2,937,"28,11","93,7","112,44",105
+188,Bruna Serva,S,F,17/10/1978,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",29/10/2002,3,4,1,11304,"1018,05","925,5","1110,6",66
+189,Rafael Carrera,S,M,22/11/1983,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",9/3/2017,5,1,3,1612,"96,72","161,2","193,44",172
+190,Leonardo de Paula,C,M,5/3/1993,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",24/5/2013,5,2,3,1115,"33,45","111,5","133,8",145
+191,Rômulo Knudsen,S,M,27/10/1996,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",19/4/2016,4,2,1,4750,"385,97","296,9","356,28",141
+192,Bernard Mello,S,M,16/10/1993,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",12/10/2011,2,5,2,16080,"1997,8",1427,"1712,4",177
+193,Eduardo Ota Hirose,C,M,7/2/1992,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",17/12/2015,5,1,3,1194,"155,22","119,4","143,28",190
+195,Adelino Werneck,S,M,27/4/1997,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",23/4/2015,3,3,2,11566,"430,8",1077,"1292,4",123
+196,Marina Lobo Meira,C,F,14/5/1980,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",23/12/2017,4,2,3,7429,"581,24","528,4","634,08",112
+197,Marina de Godoy,C,F,5/10/1976,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",7/5/2004,4,4,3,5410,"585,75","390,5","468,6",80
+199,Pedro Araujo Kelly,S,M,28/3/1982,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",3/6/2005,5,3,3,1646,"98,76","164,6","197,52",54
+200,Leticia Orichio,S,F,6/10/1978,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",18/6/2013,4,5,1,9114,"488,81","698,3","837,96",134
+201,Julia Martins do Nascimento,S,F,19/6/1975,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",20/6/2000,4,3,1,4970,"366,36","305,3","366,36",101
+202,Leandro Coutinho,C,M,9/12/1994,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",4/12/2012,5,5,2,1912,"191,2","191,2","229,44",56
+203,Isabella de Azevedo Alves,S,F,5/4/1998,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",31/3/2016,2,5,2,14984,"1049,12","1311,4","1573,68",43
+204,Tiago Leal Pedrosa,S,M,1/11/1984,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",28/10/2002,3,4,3,10451,"388,12","970,3","1164,36",100
+205,Nathalia de Oliveira,C,F,22/12/1975,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",18/1/2008,3,2,2,10934,"567,9","946,5","1135,8",118
+206,Manuela Brum,S,F,9/10/1973,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",25/1/2011,3,1,2,10283,"331,68","829,2","995,04",52
+207,Eduardo Luz,C,M,16/12/1983,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",21/1/2004,4,2,1,6694,"944,1","629,4","755,28",113
+208,Matheus Matta Marques,S,M,9/1/1988,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",9/9/2013,4,3,3,6103,"165,3",551,"661,2",154
+209,Ana de Almeida Fournier de Assis,S,F,28/1/1998,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",24/1/2016,3,5,1,10378,"1141,28","815,2","978,24",143
+210,Gabriel Viana,C,M,31/3/1974,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",31/1/2004,4,5,1,4844,"112,32","374,4","449,28",187
+211,Thaís Restum,S,F,17/2/1971,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",15/1/2009,3,2,3,11093,"1262,66","901,9","1082,28",143
+212,Douglas Pinto,C,M,9/6/1972,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",27/3/2002,5,1,1,1849,"92,45","184,9","221,88",100
+213,Eric Amante,S,M,8/5/1972,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",20/7/2000,4,4,3,5970,"668,78","477,7","573,24",113
+214,Marcus de Azevedo,C,M,10/11/1970,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",9/7/2008,4,1,1,6090,"340,69","486,7","584,04",137
+215,Lucas Bach,C,M,18/1/1991,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",13/1/2009,5,1,1,1711,"102,66","171,1","205,32",192
+216,Paula de Sousa Leite,C,F,10/5/1995,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",5/5/2013,4,5,3,6212,"232,2","464,4","557,28",108
+217,Amanda Pessanha,S,F,29/4/1989,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",19/4/2014,5,4,1,1113,"122,43","111,3","133,56",63
+218,Átila Aquino de Carvalho,S,M,11/1/1970,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",29/9/2000,3,5,1,11282,"581,76","969,6","1163,52",107
+220,Gabriela Gômara,C,F,7/4/1971,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",10/7/2000,3,3,3,11716,"687,75","982,5",1179,49
+221,Pedro Correa Rodriguez,C,M,18/9/1989,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",21/6/2016,3,1,3,9333,"453,05","906,1","1087,32",108
+222,Patricia Vieira Branco de Matos,C,F,21/10/1986,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",22/7/2015,3,2,2,10983,"619,36","884,8","1061,76",124
+223,Elvis Macedo,C,M,25/2/1987,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",28/3/2005,4,2,3,5056,"184,15","368,3","441,96",171
+224,Diego Limp,S,M,16/7/1998,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",11/7/2016,3,5,1,12050,"321,21","1070,7","1284,84",179
+226,Cynthia Alvim,S,F,23/8/1976,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",28/4/2003,3,3,3,11194,"1002,98","911,8","1094,16",34
+227,Rômulo Pedrazza,C,M,23/7/1973,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",20/11/2012,5,5,3,1598,"223,72","159,8","191,76",181
+228,Lucas Luca Lima Barbosa,S,M,18/9/1995,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",13/9/2013,5,4,1,978,"78,24","97,8","117,36",74
+229,Carolina Mello,C,F,11/1/1988,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",6/1/2006,3,2,2,9936,"424,15","848,3","1017,96",70
+230,Ramon Garcia Bittencourt,S,M,12/4/1970,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",26/8/2002,5,1,2,1828,"73,12","182,8","219,36",139
+232,Nathalia Bach,S,F,12/10/1978,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",22/9/2015,4,4,3,7448,"223,88","559,7","671,64",15
+233,Bruno de Almeida Silva,S,M,11/1/1972,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",14/1/2009,4,1,3,6628,"329,28","548,8","658,56",113
+234,Maryanna Ferraz,C,F,9/11/1995,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",4/11/2013,4,4,1,8354,"208,2",694,"832,8",36
+235,Luis Morgado,S,M,28/12/1993,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",24/12/2011,5,1,2,808,"80,8","80,8","96,96",21
+236,Nicole Vaz,S,F,8/2/1972,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",13/6/2006,2,2,2,16017,"1879,41","1445,7","1734,84",60
+237,Ananda Garcia Soares,C,F,17/8/1979,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",23/7/2014,5,3,3,1386,"166,32","138,6","166,32",45
+238,Carolina Venceslau Santos de Gusmão,C,F,8/7/1987,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",15/5/2017,5,5,3,1200,120,120,144,2
+239,Pedro Domingos,C,M,21/5/1988,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",17/5/2006,5,4,1,2097,"83,88","209,7","251,64",22
+240,Ana Alvarenga dos Santos,C,F,26/5/1991,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",21/5/2009,4,1,2,5656,"222,53","317,9","381,48",168
+242,Paula Mota,S,F,4/12/1999,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",29/6/2018,3,5,1,12252,"819,36","1024,2","1229,04",28
+243,Juliana Rodrigues,C,F,10/7/1977,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",1/7/2015,5,4,1,841,"67,28","84,1","100,92",15
+244,Felipe Miranda,C,M,9/3/1978,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",25/5/2009,4,2,2,4562,"339,35","308,5","370,2",63
+246,Joana Guimarães,C,F,14/5/1973,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",9/8/2002,5,1,3,1008,"30,24","100,8","120,96",189
+247,Lorena de Moraes Junior,C,F,11/12/1974,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",29/7/2012,4,3,3,6434,"555,1",427,"512,4",23
+248,Priscila de Oliveira,S,F,12/6/1997,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",8/6/2015,4,4,2,5781,"262,72","328,4","394,08",198
+249,Julie Barros ,S,F,17/5/1973,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",14/9/2005,3,5,1,11454,"844,02","937,8","1125,36",52
+250,Rodrigo da Silva,S,M,9/11/1998,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",4/11/2016,3,1,2,11374,"1260,72","1050,6","1260,72",195
+251,Julia Andrade Gomes,C,F,5/6/1974,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",18/4/2008,4,3,1,7367,"142,71","475,7","570,84",82
+253,Pedro Testahy Barros Afonso,C,M,6/12/1985,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",15/4/2009,4,3,3,5423,"199,84","499,6","599,52",174
+254,Igor Jimenez Jimbo,C,M,23/11/1972,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",2/3/2002,4,4,2,4659,"334,84","304,4","365,28",170
+255,Catarina Virginio,S,F,14/3/1982,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",31/5/2011,4,1,2,5479,"366,72","305,6","366,72",51
+256,Matheus de Souza Fróes,S,M,27/7/1982,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",22/7/2000,3,2,1,11395,"307,53","1025,1","1230,12",117
+257,Manuela Tavares,S,F,21/1/1987,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",11/4/2014,3,5,2,12694,"1444,94","1032,1","1238,52",152
+258,Bruna Ferreira,C,F,9/2/1998,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",5/2/2016,3,1,2,12307,"1189,56","991,3","1189,56",78
+259,Maria Leite Ursulino,S,F,12/1/1979,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",26/6/2003,4,2,3,5430,"265,52","331,9","398,28",162
+260,Lucas Racy,S,M,6/2/1970,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",19/9/2004,5,2,1,1331,"173,03","133,1","159,72",52
+261,Eduarda Chagas,C,F,28/10/1976,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",11/9/2016,5,3,3,1940,291,194,"232,8",149
+263,Luiza Castro Guimarães,C,F,5/2/1983,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",17/6/2013,3,5,1,11273,"698,32","997,6","1197,12",140
+264,Isabella Azevedo Moura,C,F,5/5/1987,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",22/8/2009,2,4,1,14640,"1964,25","1309,5","1571,4",56
+265,Mariana Garcia Soares,C,F,27/1/1973,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",24/8/2003,5,4,2,1929,"115,74","192,9","231,48",137
+266,Julia Bach,C,F,12/11/1985,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",8/3/2006,3,1,3,10452,"1231,05","820,7","984,84",48
+267,Renan Fernandes,C,M,11/10/1988,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",7/10/2006,5,1,2,1600,144,160,192,127
+268,Rômulo Pereira da Silva,C,M,28/6/1988,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",24/6/2006,5,1,3,1554,"62,16","155,4","186,48",183
+269,José Guimarães,S,M,5/10/1980,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",27/7/2010,4,1,2,6907,"534,06","593,4","712,08",156
+270,Carlos Santos Matta,C,M,17/2/1984,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",12/2/2002,4,4,3,7013,"936,45","624,3","749,16",34
+271,Arthur Gonçalo Cavalcanti,C,M,24/6/1971,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",1/2/2002,4,3,3,6843,"597,3",543,"651,6",109
+272,Yago de Souza Fróes,S,M,27/9/1986,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",22/9/2004,3,2,2,9687,"1046,64","872,2","1046,64",45
+273,Caio Lassaval Farias,S,M,31/1/1985,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",16/6/2004,5,2,1,1237,"86,59","123,7","148,44",164
+274,Isabella Delgado Fernandes,S,F,26/4/1992,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",16/9/2017,4,5,2,8252,"910,5",607,"728,4",148
+275,Norman de Souza,S,M,1/10/1986,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",26/9/2004,4,3,2,7375,"707,88","589,9","707,88",6
+276,Bruno Jorge Montanholi,S,M,17/8/1975,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",21/8/2004,3,5,3,9543,"1100,97","846,9","1016,28",85
+277,Nathália Augusto Oliveira,C,F,4/5/1977,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",1/10/2005,4,2,3,6920,"658,68","548,9","658,68",178
+278,Marta Costa,S,F,23/1/1972,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",10/12/2000,5,1,2,833,"49,98","83,3","99,96",73
+279,Júlia da Costa Cabral,C,F,16/4/1973,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",20/10/2003,3,3,1,9327,"807,2","807,2","968,64",88
+280,Luiz Ladogano,S,M,22/5/1981,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",13/2/2010,4,4,1,7015,"384,3",549,"658,8",87
+282,Igor de Rezende,S,M,4/6/1976,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",1/7/2007,4,2,1,4347,"372,42","413,8","496,56",98
+283,Rafael de Souza,S,M,2/9/1986,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",28/8/2004,3,2,3,11135,"308,16","1027,2","1232,64",81
+284,Luiz Viana,S,M,20/12/1983,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",31/10/2010,5,2,3,1197,"179,55","119,7","143,64",172
+285,Henrique Moreira de Brito,S,M,7/11/1974,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",18/7/2004,5,3,1,1125,135,"112,5",135,57
+286,Andressa Queiroz Israel,S,F,21/10/1980,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",27/6/2017,4,2,3,6441,"384,64","480,8","576,96",69
+287,Andre Ribeiro da Costa,S,M,1/5/1998,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",26/4/2016,5,4,2,1279,"102,32","127,9","153,48",145
+288,Beatriz Machado Araujo,C,F,13/7/1985,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",1/11/2010,5,3,2,1297,"181,58","129,7","155,64",75
+290,Bruna Jimenez Jimbo,C,F,23/9/1994,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",18/9/2012,2,3,1,14223,"1330,23","1209,3","1451,16",29
+291,Amanda de Lacerda,S,F,23/11/1992,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",15/8/2012,4,1,1,5694,"142,12","355,3","426,36",43
+292,Flávio Fontes,S,M,9/9/1986,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",6/8/2015,4,2,1,7583,"482,51","689,3","827,16",165
+293,João Lima,C,M,29/10/1980,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",25/10/2008,2,1,3,14003,"1173,15","1303,5","1564,2",38
+294,Gabriela de Souza Campos,C,F,24/6/1971,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",22/10/2001,5,1,2,1258,"62,9","125,8","150,96",91
+296,Elaine de Aragao,C,F,4/10/1986,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",29/9/2004,5,2,3,1110,"133,2",111,"133,2",112
+298,Isabella Meirelles,S,F,16/4/1980,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",1/8/2010,5,3,3,1656,"215,28","165,6","198,72",20
+299,Elaine Lopes de Almeida,C,F,2/10/1979,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",4/8/2008,3,3,3,10551,"769,59","855,1","1026,12",184
+301,Luis Azevedo,C,M,10/10/1987,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",5/10/2005,4,4,1,5809,"265,02","441,7","530,04",135
+302,Renata Pinheiro,S,F,16/4/1975,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",21/9/2014,5,3,2,1430,"114,4",143,"171,6",149
+303,Matheus Andrade Machado ,C,M,15/4/1998,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",10/4/2016,5,3,2,1444,"115,52","144,4","173,28",29
+304,Júlia Oliveira de Mello Silva,C,F,3/2/1994,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",6/3/2013,3,3,2,11874,"1172,82","1066,2","1279,44",136
+306,Milena Brum,S,F,12/2/1997,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",8/2/2015,4,3,1,6286,"602,16","501,8","602,16",57
+307,Bernardo Essaber,S,M,31/8/1971,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",17/1/2002,4,1,2,8154,"815,88","679,9","815,88",170
+308,Camila Fonseca Martinez,S,F,3/6/1997,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",30/5/2015,5,5,1,2052,"143,64","205,2","246,24",119
+309,Yuri Valerio Albino,C,M,6/9/1977,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",30/8/2008,2,4,1,14194,"805,86","1343,1","1611,72",60
+310,Debora Penedo,C,F,26/1/1988,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",21/1/2006,3,1,2,12903,"1030,1","1030,1","1236,12",26
+311,Flávia Jordao,S,F,27/5/1991,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",31/3/2015,4,3,1,9053,"700,15","636,5","763,8",134
+312,Matheus Alvarez,C,M,2/1/1986,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",29/12/2003,5,5,3,1027,"41,08","102,7","123,24",22
+313,Gabriel Pereira,S,M,2/6/1992,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",29/5/2010,3,1,3,9739,1308,872,"1046,4",35
+314,Igor Fiorenza Duque Pinho,S,M,12/5/1983,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",7/5/2001,4,4,2,5452,"640,5","457,5",549,6
+315,Jeferson Ramos,S,M,7/5/1995,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",2/5/2013,3,3,3,11382,"1281,72","1068,1","1281,72",145
+316,Ary da Silva Costa,S,M,27/12/1986,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",22/12/2004,5,2,1,1961,"254,93","196,1","235,32",190
+318,Paulo Souza,C,M,13/6/1985,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",28/7/2013,5,1,3,1316,"78,96","131,6","157,92",103
+319,Mariana Figueiredo Barbosa,S,F,12/11/1975,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",15/12/2003,3,5,1,13009,"1022,4","1022,4","1226,88",150
+320,Aline da Silva,S,F,22/6/1976,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",13/8/2015,5,1,3,801,"80,1","80,1","96,12",120
+321,Bruna Mello Varela,S,F,4/8/1989,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",27/4/2014,3,4,3,11007,"1178,58","906,6","1087,92",22
+322,Luiza Sobrinho Pereira,C,F,1/10/1995,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",7/3/2016,5,4,2,1738,"69,52","173,8","208,56",60
+323,Rafael Rodrigues de Sousa,C,M,4/5/1999,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",29/4/2017,5,3,3,1139,"170,85","113,9","136,68",72
+324,Camila Regis Ivo,S,F,1/7/1992,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",18/1/2016,5,4,1,1599,"47,97","159,9","191,88",94
+325,Karine Cardoso das Chagas,C,F,13/12/1999,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",8/9/2018,3,1,1,10452,"268,62","895,4","1074,48",94
+326,Myllena Nacif,C,F,14/7/1977,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",7/10/2011,3,2,3,13073,"422,32","1055,8","1266,96",185
+327,Flávio Barbosa,C,M,10/5/1972,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",4/2/2010,4,3,1,7112,"713,02","648,2","777,84",190
+328,Igor Feijo,C,M,9/7/1978,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",29/6/2017,4,4,1,3785,"283,86","315,4","378,48",153
+329,João Pereira Da Silva,S,M,16/2/1993,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",12/2/2011,5,5,2,854,"85,4","85,4","102,48",186
+330,Gabriela Costa,C,F,13/7/1989,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",13/6/2012,1,2,2,25340,"2566,19","2332,9","2799,48",33
+331,Jayme Carvalho,S,M,1/3/1986,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",10/2/2009,5,3,3,886,"26,58","88,6","106,32",125
+332,Luíza Roussef,C,F,10/2/1992,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",5/2/2010,5,3,2,1420,213,142,"170,4",95
+333,Juan Santos Rosa,S,M,16/4/1998,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",11/4/2016,5,1,1,2032,"81,28","203,2","243,84",0
+334,Ana de Sá Foly,S,F,15/12/1998,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",10/12/2016,5,3,2,1107,"44,28","110,7","132,84",1
+335,Raquel Tavares,S,M,5/9/1979,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",27/2/2012,3,1,1,11700,"418,12","1045,3","1254,36",135
+336,Raphael Rodrigues,S,M,20/2/1971,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",10/7/2003,3,5,2,8962,"1174,6",839,"1006,8",5
+337,Carolina de Souza Almeida,C,F,7/2/1980,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",17/4/2009,3,4,1,9919,"1077,18","828,6","994,32",51
+338,Eduardo Paes Leme,S,M,6/2/1999,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",1/2/2017,4,1,2,7876,"251,68","629,2","755,04",188
+339,Rodrigo Funcke,S,M,1/3/1982,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",19/10/2011,2,2,3,14671,"2122,65","1415,1","1698,12",131
+340,Rafaella Sarmento e Silva,S,F,29/4/1976,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",23/2/2001,5,5,1,891,"44,55","89,1","106,92",7
+341,Marta de Oliveira,S,F,1/8/1975,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",25/12/2009,4,1,3,7007,"508,75","462,5",555,34
+342,Alfredo Machado Araujo,S,M,14/8/1986,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",2/4/2011,3,3,1,9958,"612,99","875,7","1050,84",200
+343,Audir Muniz,S,M,1/2/1988,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",27/1/2006,2,2,2,13661,"1566,6","1305,5","1566,6",189
+344,Matheus Monteiro,S,M,5/6/1988,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",10/11/2011,5,5,3,1276,"140,36","127,6","153,12",128
+345,Marina Duarte Barbosa,S,F,5/9/1987,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",19/2/2007,4,4,1,5029,"458,7","305,8","366,96",172
+346,Thalles Jordão Teixeira,C,M,7/9/1996,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",3/9/2014,5,4,1,829,"58,03","82,9","99,48",125
+347,Daniel Alvarenga dos Santos,C,M,28/10/1997,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",24/10/2015,5,3,2,1698,"84,9","169,8","203,76",147
+348,Suelen Lander Regasso,S,F,4/1/1999,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",30/12/2016,4,1,1,8039,"555,48","617,2","740,64",111
+349,Bruno Sobrinho Pereira,S,M,7/5/1975,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",19/8/2004,2,2,1,15836,444,1480,1776,104
+350,Eduardo da Cunha,C,M,14/12/1980,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",10/12/2006,3,2,3,10429,"285,12","950,4","1140,48",9
+351,Lorena Freire,C,F,4/9/1980,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",7/5/2011,5,5,3,1983,"178,47","198,3","237,96",168
+352,João Silva Longo de Jesus Viana,S,M,15/7/1977,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",13/5/2006,2,3,2,15468,"841,38","1402,3","1682,76",88
+353,Pedro Helal,C,M,9/6/1974,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",6/5/2009,3,4,2,9480,"1051,2",876,"1051,2",157
+354,Ana Ladogano,S,F,20/10/1972,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",21/12/2009,2,1,2,14367,"496,56","1241,4","1489,68",166
+355,Igor Iglezias Perdomo,C,M,28/12/1978,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",23/12/2006,3,5,2,10244,"553,74","922,9","1107,48",50
+356,Mariana Bach,C,F,2/2/1970,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",13/7/2002,5,4,3,1848,"92,4","184,8","221,76",21
+357,Rachel Ferreira,C,M,16/7/1980,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",5/2/2007,2,5,1,14948,"1777,62","1367,4","1640,88",22
+358,Cynthia Mercês,C,F,26/4/1972,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",10/3/2007,3,3,2,11224,"1226,03","943,1","1131,72",120
+359,Pedro Bernhardt,C,M,6/11/1973,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",28/5/2008,3,1,3,11012,"579,54","965,9","1159,08",64
+360,Lucas Short Santa Cecilia,C,M,30/11/1999,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",25/2/2018,5,4,3,880,"61,6",88,"105,6",172
+362,Juliana Stockler,C,F,1/3/1986,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",13/5/2014,3,5,1,13100,"1445,78","1032,7","1239,24",29
+363,Anderson Dias Sampaio,C,M,2/2/1981,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",30/7/2001,4,5,2,7650,"407,16","678,6","814,32",45
+364,Marta Fahrnholz,C,F,21/4/1988,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",17/4/2006,2,5,1,16205,"1596,76","1451,6","1741,92",186
+366,Wendela da Cunha,C,F,13/10/1977,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",13/5/2005,4,3,2,7684,"228,08","570,2","684,24",198
+367,Paula Marques Ribeiro,S,F,4/9/1984,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",31/8/2002,5,5,3,864,"69,12","86,4","103,68",185
+368,Jeronimo dos Santos Villares Vianna,S,M,26/10/1983,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",8/7/2004,2,1,2,13779,"874,16","1248,8","1498,56",73
+369,Larissa Leal Pedrosa,C,F,26/3/1997,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",22/3/2015,5,3,1,1470,"220,5",147,"176,4",11
+370,Bárbara Rodrigues,S,F,14/3/1999,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",9/3/2017,3,4,1,11589,"1343,58","959,7","1151,64",103
+371,Arthur Vaz,C,M,19/7/1997,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",2/2/2017,2,4,2,13982,"763,8",1273,"1527,6",15
+372,Matheus Carvalho Pinto e Rocha,S,M,30/3/1981,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",12/9/2005,5,2,1,1526,"91,56","152,6","183,12",114
+373,Roberta Procaci,S,F,12/8/1970,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",2/5/2008,4,3,3,6198,"528,45","406,5","487,8",87
+374,Bernardo de Lima Oliveira,S,M,7/7/1995,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",16/10/2014,3,1,3,9553,"840,8","840,8","1008,96",153
+375,Ana Sabino de Azevedo Duarte silva,C,F,28/12/1980,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",14/10/2009,3,5,2,12175,"310,14","1033,8","1240,56",48
+376,Carolina Fontes,C,F,7/1/1990,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",14/8/2009,4,5,2,5924,"116,34","387,8","465,36",161
+377,Nathalia de Sousa Vaz Rangel,C,F,23/9/1983,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",18/9/2001,4,2,3,5427,"205,98","343,3","411,96",190
+378,Patricia Jorge,S,F,24/12/1984,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",30/5/2007,4,3,2,6789,"653,52","466,8","560,16",137
+379,Pedro Lopes de Oliveira,S,M,27/7/1972,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",20/9/2003,5,4,2,1404,"56,16","140,4","168,48",37
+381,Luiz Costa Vasconcellos,C,M,31/3/1993,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",27/3/2011,3,1,2,10328,"348,68","871,7","1046,04",79
+382,Mariana Schwenck Gullo,S,F,19/2/1995,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",14/2/2013,2,4,1,14887,"1341,1","1341,1","1609,32",32
+383,João de Souza,C,M,3/9/1990,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",29/8/2008,5,1,1,1053,"94,77","105,3","126,36",173
+384,Eugênio Galvão de Souza,S,M,26/4/1978,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",11/7/2008,5,3,1,970,"87,3",97,"116,4",52
+385,Vitor de Carvalho,S,M,3/6/1973,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",25/8/2008,5,5,2,1478,"118,24","147,8","177,36",31
+386,Tadeu Lopes da Silveira ,S,M,10/10/1974,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",14/8/2008,5,1,3,1848,"277,2","184,8","221,76",35
+387,Matheus Andrade Souza ,C,M,10/8/1974,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",28/9/2001,3,2,3,10572,"923,31","1025,9","1231,08",47
+389,Juan Daumas de Azevedo Assumpção,S,M,12/4/1984,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",22/9/2005,3,5,2,11127,"1096,7",997,"1196,4",123
+390,Lucas Guadagnino,S,M,7/2/1988,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",27/12/2009,4,1,2,5121,"426,69","387,9","465,48",92
+391,Daniel Lopes da Silveira ,S,M,5/3/1971,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",20/11/2004,5,1,1,1684,"101,04","168,4","202,08",26
+392,Carlos Amorim,C,M,7/2/1981,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",5/10/2013,5,3,1,1844,"258,16","184,4","221,28",167
+393,Flávio Santos Garcia,S,M,8/12/1981,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",4/12/2002,4,2,2,4916,"210,06","350,1","420,12",155
+394,Matheus Iglezias Perdomo,C,M,4/9/1973,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",22/9/2004,3,4,2,10337,"932,2","932,2","1118,64",59
+395,Sarah de Carvalho Gomes,S,F,22/2/1991,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",17/2/2009,4,4,2,5248,"289,26","321,4","385,68",7
+396,Bianca Aguiar,S,F,13/4/1987,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",5/3/2016,4,3,3,6979,"427,52","534,4","641,28",53
+397,Renan Steiner Costa,S,M,16/1/1993,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",12/1/2011,3,4,1,10699,"1468,8","979,2","1175,04",196
+398,Jeferson Pinheiro Mariano,C,M,23/1/1998,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",19/1/2016,3,3,2,10967,"306,6",1022,"1226,4",39
+399,Saranna Lepore Pinheiro,C,F,2/6/1992,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",9/7/2011,4,2,2,8130,"900,62","643,3","771,96",185
+400,Cynthia Ribeiro,C,F,27/3/1995,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",22/3/2013,2,4,1,16571,"878,52","1464,2","1757,04",57
+402,Marcello Rebouças,C,M,6/6/1987,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",1/6/2005,5,1,3,800,120,80,96,179
+403,Gabriel Vasconcelos de Sousa,C,M,11/1/1976,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",25/11/2008,3,3,2,10853,"1463,84","1045,6","1254,72",131
+404,Francyne Souza,C,F,24/10/1975,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",2/6/2009,4,4,3,7404,"506,8","506,8","608,16",77
+405,Ana Bernardo,S,F,4/9/1980,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",24/12/2014,5,5,3,827,"99,24","82,7","99,24",140
+406,Carolina Racy,S,F,10/11/1989,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",6/11/2007,5,3,2,1012,"70,84","101,2","121,44",26
+407,Matheus Rubio,S,M,20/1/1996,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",15/1/2014,5,2,2,1924,"192,4","192,4","230,88",183
+408,Fernanda do Nascimento Rocha,C,F,19/12/1994,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",26/8/2017,5,1,1,1814,"272,1","181,4","217,68",20
+409,Gabriela e Alves,S,F,9/5/1999,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",4/5/2017,5,4,2,1797,"233,61","179,7","215,64",124
+411,Yuri Cruz,S,M,23/6/1982,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",20/9/2000,1,5,2,21414,"1468,04","2097,2","2516,64",111
+412,Camilla Ferraz,C,F,3/7/1992,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",8/6/2011,4,2,2,8167,"588,96","654,4","785,28",170
+413,Nathalia Melo Eiras,C,F,13/8/1992,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",19/8/2013,2,5,3,15133,"1536,26","1396,6","1675,92",170
+414,Marianna Oliveira Leite Silva,S,F,29/4/1980,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",20/3/2002,5,3,3,1379,"179,27","137,9","165,48",166
+415,Lucas Alvarenga dos Santos,C,M,25/6/1994,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",20/6/2012,5,3,2,1164,"81,48","116,4","139,68",132
+417,Carolina Araujo Sagrillo,C,F,11/12/1995,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",6/12/2013,4,1,2,6800,"196,35","392,7","471,24",186
+418,Matheus Rodrigues Luiz,C,M,29/1/1994,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",25/1/2012,5,1,3,1406,"154,66","140,6","168,72",196
+419,Marcello Jorge Montanholi,C,M,15/5/1984,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",4/6/2002,3,1,3,9445,"246,9",823,"987,6",20
+420,Giovanna Fahrnholz,C,F,27/5/1999,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",22/5/2017,2,3,2,15249,"371,94","1239,8","1487,76",183
+421,Rafael Oliveira Leite Silva,S,M,13/12/1999,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",8/12/2018,3,3,2,11566,"624,54","1040,9","1249,08",63
+422,João de Araújo  ,S,M,5/1/1994,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",1/1/2012,3,3,1,8952,"809,8","809,8","971,76",59
+423,Ighor Araujo Kelly,S,M,20/1/1979,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",23/4/2016,4,5,2,8446,"839,52","699,6","839,52",109
+424,Leonardo Dias,S,M,14/11/1970,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",4/10/2003,4,4,3,6267,"299,2","598,4","718,08",198
+425,Amanda Marinho,S,F,22/2/1983,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",17/9/2010,5,5,2,1931,"77,24","193,1","231,72",158
+426,Tiago Souza Tanaka,C,M,25/7/1970,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",27/8/2005,4,1,2,4579,"251,58","359,4","431,28",62
+427,Iasmim Jacques Gamboa Fernandez de Oliveira Netto,S,F,16/5/1976,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",27/6/2009,2,5,1,16174,"815,34","1358,9","1630,68",166
+428,Pedro Hanashiro Moraes,C,M,18/10/1981,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",10/2/2005,5,1,1,808,"48,48","80,8","96,96",121
+429,Rafaela de Godoy,S,F,24/5/1970,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",29/7/2002,4,4,3,5793,"635,6",454,"544,8",110
+430,Priscila Orçai Granado,C,F,13/2/1988,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",2/10/2007,3,2,3,10045,"779,31","865,9","1039,08",99
+431,Fernanda Gonçalves,S,F,2/4/1991,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",28/3/2009,5,1,1,1472,"147,2","147,2","176,64",119
+432,Yuske Orichio,C,M,19/5/1985,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",20/11/2005,5,2,3,1852,"277,8","185,2","222,24",88
+433,Julia Freitas,S,F,27/9/1996,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",23/9/2014,5,2,2,959,"47,95","95,9","115,08",81
+435,Ana Barbosa,S,F,6/6/1985,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",2/6/2003,5,3,3,1920,"249,6",192,"230,4",17
+436,Emilaine Oliveira de Mello Silva,C,F,23/11/1973,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",20/5/2012,5,2,1,2057,"123,42","205,7","246,84",160
+438,Diego Costa,S,M,27/1/1984,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",18/5/2009,2,5,3,15277,"1636,47","1487,7","1785,24",25
+439,Vitor Almeida da Silveira,S,M,23/3/1984,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",1/11/2017,4,2,1,4224,"250,32","357,6","429,12",55
+440,Juan Fernandes de Araújo,S,M,19/1/1978,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",1/9/2016,4,2,2,6256,"618,93","476,1","571,32",82
+441,Paula Pessanha,C,F,19/6/1974,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",24/8/2006,4,4,1,5599,"483,36","402,8","483,36",34
+442,Lorena Fernandes,S,F,19/10/1980,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",13/1/2009,4,5,2,7218,"226,25","452,5",543,1
+443,Iris da Silva,C,F,29/7/1978,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",28/8/2001,5,2,3,1697,"84,85","169,7","203,64",2
+444,Maria Freire de Souza,S,F,28/7/1987,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",11/3/2011,5,1,2,864,"25,92","86,4","103,68",131
+445,Geam Petraglia da Silva,C,M,28/11/1970,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",13/1/2002,5,5,1,1024,"40,96","102,4","122,88",17
+446,Guilherme Johnson,C,M,29/4/1993,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",25/4/2011,3,3,1,10489,"295,47","984,9","1181,88",101
+447,Gabriela Romeu,C,F,26/11/1983,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",1/11/2004,4,1,1,5585,"380,93","346,3","415,56",134
+448,Ana Fernandes Filardi,S,F,26/10/1975,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",17/8/2012,2,2,1,16700,"837,48","1395,8","1674,96",28
+449,José do Vale Lisboa,S,M,18/11/1989,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",5/1/2013,3,4,3,10661,"660,59","943,7","1132,44",122
+451,Rodrigo Venceslau Santos de Gusmão,C,M,14/8/1996,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",10/8/2014,4,3,3,8347,"878,8",676,"811,2",84
+452,Desirée Castro Guimarães,C,F,20/2/1971,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",23/6/2008,4,4,3,4987,"132,4",331,"397,2",30
+453,Milena Cândido Xavier Ferreira,S,F,28/8/1997,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",24/8/2015,5,5,3,1704,"170,4","170,4","204,48",183
+454,João Rodrigues,C,M,4/1/1991,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",30/12/2008,5,4,1,1249,"187,35","124,9","149,88",95
+455,Beatriz Barrozo,S,F,18/5/1988,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",4/2/2014,4,5,3,5279,"247,2",309,"370,8",38
+456,Luiza Garcia Soares,S,F,19/2/1995,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",14/2/2013,4,1,1,7046,"382,16","477,7","573,24",140
+457,Arthur Gonzalez Assef Miranda,C,M,29/9/1983,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",19/4/2005,5,4,3,825,"74,25","82,5",99,50
+458,Rafael Lobo,C,M,21/4/1978,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",23/3/2007,5,1,3,1671,"83,55","167,1","200,52",195
+459,Marcelo Monnerat,S,M,3/9/1985,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",15/8/2012,4,5,1,6930,"304,05","608,1","729,72",128
+460,Adelino Araujo,C,M,4/9/1976,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",7/11/2005,5,1,2,853,"127,95","85,3","102,36",23
+461,Vinicius Monteiro,S,M,13/9/1995,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",31/5/2014,4,3,3,5335,"362,8","362,8","435,36",156
+462,Lucas Procaci,S,M,19/3/1992,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",15/3/2010,4,3,3,6828,"570,6","570,6","684,72",38
+463,Paloma Melo Lyra,C,F,19/5/1979,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",7/3/2005,5,5,2,2037,"203,7","203,7","244,44",111
+464,Wesley de Melo Teixeira,C,M,21/11/1997,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",17/11/2015,5,2,2,1439,"143,9","143,9","172,68",36
+465,Luis Figueiredo Gabriel,S,M,11/7/1988,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",11/1/2013,5,5,2,1996,"179,64","199,6","239,52",126
+466,Luiza Monnerat,C,F,16/9/1994,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",11/9/2012,3,3,1,12467,"415,12","1037,8","1245,36",123
+467,Daniel Garcia,C,M,31/10/1988,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",27/10/2006,4,2,2,5317,"306,04","437,2","524,64",167
+468,Luiz de Mattos,C,M,1/10/1992,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",27/9/2010,3,2,1,12005,"1099,9","1099,9","1319,88",38
+469,André dos Santos Pereira Brito,S,M,30/3/1992,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",25/12/2015,5,1,3,850,"127,5",85,102,196
+470,Lucas Alvim,S,M,28/5/1992,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",24/5/2010,2,1,3,14751,"1068,8",1336,"1603,2",42
+471,Júlia de Oliveira,S,F,29/6/1981,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",1/5/2002,5,5,2,1234,"86,38","123,4","148,08",185
+472,Bruna Santos Oliveira,S,F,6/11/1974,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",12/10/2010,4,5,1,5755,"187,1","374,2","449,04",30
+473,Vinícius Lencastre,S,M,7/10/1978,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",8/10/2001,5,4,2,833,"49,98","83,3","99,96",157
+474,Daniel Pinto Anastácio Machado,C,M,6/10/1990,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",28/4/2014,4,3,2,6657,"509,12","636,4","763,68",196
+475,Breno Franklin da Silva,C,M,24/1/1988,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",27/5/2013,4,2,2,7969,"886,21","681,7","818,04",50
+476,Renata Lopes de Oliveira,S,F,15/4/1972,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",6/12/2006,5,2,1,1717,"103,02","171,7","206,04",122
+477,Thayane Wermelinger Santos,S,F,16/11/1991,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",11/11/2009,2,3,1,15366,"405,54","1351,8","1622,16",8
+478,Ramon De Moraes Bergara,S,M,31/10/1989,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",27/10/2007,5,5,3,1604,"208,52","160,4","192,48",108
+480,Mauricio Jardim,S,M,21/11/1971,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",24/3/2007,2,2,3,14998,"1641,72","1368,1","1641,72",195
+481,Lais Cormack,S,F,11/5/1986,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",2/5/2009,2,1,3,14828,"403,56","1345,2","1614,24",44
+482,Milena Fernandes,C,F,20/10/1971,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",6/1/2001,3,2,2,11010,"747,04","933,8","1120,56",54
+483,Paloma Agostinho Marques dos Santos,S,F,18/12/1988,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",14/12/2006,4,5,2,5213,"126,72","316,8","380,16",72
+484,Pedro da Silva ,S,M,1/12/1971,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",30/11/2002,2,1,2,15912,1650,1500,1800,159
+485,Luisa da Costa  ,C,F,14/4/1983,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",10/5/2015,5,1,2,1979,"178,11","197,9","237,48",106
+486,Beatriz de Lima Oliveira,S,F,25/10/1983,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",20/10/2001,4,5,3,4618,"271,2",339,"406,8",2
+488,Stefan Silva,C,M,6/4/1993,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",2/4/2011,3,4,3,9356,"1055,08","811,6","973,92",142
+490,Pedro Jardim,S,M,8/3/1992,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",12/1/2015,3,3,3,10804,"1243,2",1036,"1243,2",120
+491,Mariana Sartorio,S,F,16/1/1985,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",15/1/2004,4,5,3,5787,"399,84","333,2","399,84",155
+492,Thomaz Campelo da Silva,S,M,13/2/1995,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",8/2/2013,5,5,2,983,"108,13","98,3","117,96",182
+493,Pedro Vilas Bôas,S,M,6/2/1990,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",2/2/2008,5,2,3,1487,"178,44","148,7","178,44",29
+494,Helena Carramanhos Peixoto ,C,F,23/9/1980,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",18/3/2001,3,4,3,11730,"791,1",879,"1054,8",200
+495,Carolina Marques,C,F,23/11/1994,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",13/11/2014,3,2,2,13165,"1593,9","1062,6","1275,12",34
+496,Nicolas Conceição Leite,S,M,4/8/1980,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",14/3/2011,5,5,3,1434,"71,7","143,4","172,08",40
+497,João Resinente,S,M,15/9/1996,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",11/9/2014,4,3,2,7632,"868,42","620,3","744,36",132
+498,Luize da Costa,S,F,28/11/1980,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",12/1/2013,3,3,1,10000,"931,48","846,8","1016,16",11
+499,Bárbara Gonçalves ,C,F,19/9/1992,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",15/9/2010,5,5,2,1091,"76,37","109,1","130,92",1
+500,Carolina Calafate,C,F,18/1/1993,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",14/1/2011,4,2,3,5763,"384,34","349,4","419,28",166
+501,Yuri Vasconcelos,S,M,8/11/1984,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",4/11/2002,4,3,3,4742,158,395,474,99
+503,Mariana Almeida Alexandre,C,F,13/6/1991,"Av. Barão Homem de Melo, 1389 - Nova Granada, Belo Horizonte - MG, 30431-425",8/6/2009,3,1,2,11860,"786,88","983,6","1180,32",127
+504,Diego de Melo Teixeira,S,M,27/7/1987,"R. Teodoro Sampaio, 954 - Pinheiros, São Paulo - SP, 05406-050",13/1/2008,4,4,2,5033,"294,24","367,8","441,36",89
+505,Paulo de Oliveira e Mello     ,S,M,4/9/1976,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",3/3/2007,4,5,3,7022,"597,3","597,3","716,76",118
+506,Bianca Lemos,C,F,25/4/1983,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",20/4/2001,4,3,1,7303,"668,28","556,9","668,28",188
+507,Thiago Fernandes de Araújo,S,M,1/6/1974,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",7/1/2006,4,1,3,6122,"393,82","562,6","675,12",107
+508,João Negrelli,C,M,15/12/1977,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",6/6/2008,4,4,2,6352,"420,08","525,1","630,12",151
+509,João Suzano,S,M,13/2/1977,"R. Dr. Antônio Castro Prado, 422 - Vila Rossi e Borchi, Campinas - SP, 13076-130",13/5/2000,4,2,1,6130,"326,16","543,6","652,32",61
+510,Bruna Rocha de Carvalho,S,F,28/5/1999,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",23/5/2017,5,5,2,1685,"235,9","168,5","202,2",131
+511,Samantha de Oliveira Pereira,S,F,13/3/1982,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",8/3/2000,2,1,1,17667,"1290,33","1433,7","1720,44",109
+512,Bruno Paes Leme,S,M,14/9/1983,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",4/9/2014,4,4,3,6218,"745,5",497,"596,4",94
+513,João Monteiro,S,M,9/5/1991,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",4/5/2009,3,3,2,9655,"866,1","866,1","1039,32",8
+514,Yago Oliveira,C,M,31/8/1982,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",1/10/2013,5,5,3,948,"28,44","94,8","113,76",113
+515,Leandro Tabet,C,M,7/12/1971,"Shopping Barra - Av. Centenário, 2992 - Barra, Salvador - BA, 40155-150",4/8/2005,4,5,2,6106,"596,31","542,1","650,52",120
+516,Beatriz Virginio,C,F,27/1/1981,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",23/1/2001,3,5,2,10420,"571,06","815,8","978,96",62
+517,Maria Mello,C,F,14/9/1996,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",10/9/2014,4,2,2,8312,"433,44","619,2","743,04",12
+518,Nuno de Oliveira Sampaio,S,M,11/2/1996,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",6/2/2014,5,5,2,1434,"172,08","143,4","172,08",14
+519,Manuela Abreu Braga Martins,S,F,3/11/1984,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",10/3/2013,2,4,1,16466,"1607,98","1461,8","1754,16",58
+520,Flávio Silva Mendonça,S,M,30/11/1996,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",26/11/2014,4,3,1,6987,"295,15","590,3","708,36",166
+521,Ébio Velucci,C,M,27/9/1994,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",22/9/2012,5,3,3,1335,"173,55","133,5","160,2",83
+522,Victor Fonseca,S,M,23/3/1990,"Av. Dom Luís, 500 - Aldeota, Fortaleza - CE, 60160-230",8/2/2016,5,3,2,872,"113,36","87,2","104,64",188
+523,Bernardo Silva,C,M,17/6/1982,"Rua Quinze de Novembro, 8 - Loja 301a Loja 301b - Centro, Niterói - RJ, 24020-125",15/12/2013,4,1,2,5233,"652,5",435,522,3
+525,Nathália Fernandes de Araújo,C,F,27/4/1978,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",24/9/2017,2,3,3,16612,"556,44","1391,1","1669,32",124
+526,Guilherme Lander Regasso,S,M,5/2/1978,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",12/8/2002,5,1,3,1592,"206,96","159,2","191,04",118
+527,Brenno Silva,S,M,23/8/1983,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",18/8/2001,4,1,1,7040,"291,25","582,5",699,50
+528,William Araujo Kelly,S,M,16/1/1970,"Av. Mal. Floriano Peixoto, 2248-2258 - Centro, Nova Iguaçu - RJ, 26210-000",13/1/2006,3,1,1,10593,"1358,84","970,6","1164,72",62
+529,Daniele Blumberg,C,F,17/9/1982,"Av. Goiás Norte, 3.592 - quadra 2.1 - St. Mal. Rondon, Goiânia - GO, 74063-010",31/3/2017,5,3,1,1153,"161,42","115,3","138,36",147
+532,João Cavalcanti Alves,S,M,13/5/1970,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",12/8/2008,3,5,3,9267,"755,73","839,7","1007,64",70
+533,Bernardo Magno,C,M,22/3/1985,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",3/12/2005,5,3,3,1509,"105,63","150,9","181,08",174
+534,Raíza Barcellos,C,F,11/3/1976,"R. Luíz Faccini, 212 - Centro, Guarulhos - SP, 07110-000",17/9/2000,4,2,3,7355,"531,96","483,6","580,32",117
+535,Bernardo da cunha ,C,M,28/6/1979,"R. Visc. de Pirajá, 136 - Ipanema, Rio de Janeiro - RJ, 22410-000",15/3/2002,4,2,3,7059,"954,9","636,6","763,92",88
+536,Julia Novaes Silva,C,F,8/11/1992,"Av. Borges de Medeiros, 3120 - Praia de Belas, Porto Alegre - RS, 90110-150",31/10/2013,4,5,2,7552,"670,32","558,6","670,32",44
+537,Arthur Bispo,S,M,20/7/1993,"Rua Antônio Lumack do Monte, 203 - 1 - Boa Viagem, Recife - PE, 51020-350",16/7/2011,4,5,3,6583,"435,96","484,4","581,28",4
+539,Renan Assis da Silva,C,M,2/6/1970,"R. Brasílio Itiberê, 3279 - Água Verde, Curitiba - PR, 80250-160",4/9/2003,3,4,1,10273,"898,92","998,8","1198,56",142
